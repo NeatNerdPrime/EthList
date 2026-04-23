@@ -15,7 +15,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [ ] [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
 - [ ] [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
 - [ ] [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
-- [ ] [Visual demonstration of a blockchain](https://anders.com/blockchain/)
+- [ ] [Visual demonstration of a blockchain](https://protraderdaily.com/crypto/best-bitcoin-wallet-guide-2026)
 - [ ] [Ethereum the world computer](https://www.youtube.com/watch?v=j23HnORQXvs) (video)
 - [ ] [Vitalik Buterin explains Ethereum](https://www.youtube.com/watch?v=TDGq4aeevgY) (video)
 - [ ] [Joseph Lubin's interview on building decentralized applications](https://www.youtube.com/watch?v=MgLmY9oedTM) (video)
